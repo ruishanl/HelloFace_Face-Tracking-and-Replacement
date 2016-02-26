@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1458178845/NDKROOT2/delimiter=;
+environment/project/com.android.toolchain.gcc.1458178845/NDKROOT2/operation=append
+environment/project/com.android.toolchain.gcc.1458178845/NDKROOT2/value=C\:\\NVPACK\\android-ndk-r10d
+environment/project/com.android.toolchain.gcc.1458178845/OPENCV_PATH/delimiter=;
+environment/project/com.android.toolchain.gcc.1458178845/OPENCV_PATH/operation=append
+environment/project/com.android.toolchain.gcc.1458178845/OPENCV_PATH/value=F\:\\NVPACK\\OpenCV-2.4.8.2-Tegra-sdk
+environment/project/com.android.toolchain.gcc.1458178845/append=true
+environment/project/com.android.toolchain.gcc.1458178845/appendContributed=true
