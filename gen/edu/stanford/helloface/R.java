@@ -40,16 +40,27 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int any=0x7f060000;
-        public static final int back=0x7f060001;
-        public static final int front=0x7f060002;
-        public static final int primary_camera_view=0x7f060003;
+        public static final int any=0x7f070000;
+        public static final int back=0x7f070001;
+        public static final int front=0x7f070002;
+        public static final int primary_camera_view=0x7f070003;
     }
     public static final class layout {
         public static final int activity_camera=0x7f030000;
     }
+    public static final class raw {
+        public static final int haarcascade_frontalface_alt2=0x7f040000;
+        public static final int haarcascade_mcs_eyepair_big=0x7f040001;
+        public static final int haarcascade_mcs_nose=0x7f040002;
+        public static final int mask1=0x7f040003;
+        public static final int mask2=0x7f040004;
+        public static final int mask3=0x7f040005;
+        public static final int rihanna=0x7f040006;
+        public static final int scarlett=0x7f040007;
+        public static final int tongliya=0x7f040008;
+    }
     public static final class string {
-        public static final int app_name=0x7f040000;
+        public static final int app_name=0x7f050000;
     }
     public static final class style {
         /** 
@@ -73,11 +84,11 @@ containing a value of this type.
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f050000;
+        public static final int AppBaseTheme=0x7f060000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f050001;
+        public static final int AppTheme=0x7f060001;
     }
     public static final class styleable {
         /** Attributes that can be used with a CameraBridgeViewBase.
